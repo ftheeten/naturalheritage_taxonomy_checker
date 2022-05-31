@@ -1,0 +1,124 @@
+INIT_Tilapia!
+ORI_Tilapia!
+DO Canonical!
+CANO_Tilapia!
+LOAd
+Tilapia_TilapiagenusPARSEINIT_Oreochromis!
+ORI_Oreochromis!
+DO Canonical!
+CANO_Oreochromis!
+LOAd
+Oreochromis_OreochromisgenusPARSEINIT_Oreochromis andersonii!
+ORI_Oreochromis andersonii (Castelnau, 1861)!
+DO Canonical!
+CANO_Oreochromis andersonii!
+LOAd
+Oreochromis andersonii_Oreochromis andersonii (Castelnau, 1861)speciesPARSEOreochromis andersonii (Castelnau, 1861)
+????????????????Oreochromis andersonii
+!!!!!!!!!!!!!!!!Oreochromis andersonii (Castelnau, 1861)
+xxxxxxxxxxxxxxxOreochromis andersonii
+------------------22Array
+(
+    [SpecCode] => 1399
+    [Genus] => Oreochromis
+    [Species] => andersonii
+    [Author] => (Castelnau, 1861)
+    [SpeciesRefNo] => 2
+    [FBname] => Three spotted tilapia
+    [FamCode] => 349
+    [GenCode] => 3459
+    [Remark] => 
+    [SubGenCode] => 
+    [SubFamily] => Pseudocrenilabrinae
+    [Family] => Cichlidae
+    [Order] => Perciformes
+    [Class] => Actinopterygii
+)
+INIT_Oreochromis niloticus!
+ORI_Oreochromis niloticus!
+DO Canonical!
+CANO_Oreochromis niloticus!
+LOAd
+Oreochromis niloticus_Oreochromis niloticusspeciesPARSEOreochromis niloticus
+????????????????Oreochromis niloticus
+!!!!!!!!!!!!!!!!Oreochromis niloticus (Linnaeus, 1758)
+xxxxxxxxxxxxxxxOreochromis niloticus
+------------------21Array
+(
+    [SpecCode] => 2
+    [Genus] => Oreochromis
+    [Species] => niloticus
+    [SpeciesRefNo] => 2
+    [Author] => (Linnaeus, 1758)
+    [FBname] => Nile tilapia
+    [FamCode] => 349
+    [GenCode] => 3459
+    [SubGenCode] => 
+    [Remark] => 
+    [SubFamily] => Pseudocrenilabrinae
+    [Family] => Cichlidae
+    [Order] => Perciformes
+    [Class] => Actinopterygii
+)
+INIT_Tilapia!
+ORI_Tilapia!
+DO Canonical!
+CANO_Tilapia!
+LOAd
+Tilapia_TilapiagenusPARSEINIT_Oreochromis!
+ORI_Oreochromis!
+DO Canonical!
+CANO_Oreochromis!
+LOAd
+Oreochromis_OreochromisgenusPARSEINIT_Oreochromis andersonii!
+ORI_Oreochromis andersonii (Castelnau, 1861)!
+DO Canonical!
+CANO_Oreochromis andersonii!
+LOAd
+Oreochromis andersonii_Oreochromis andersonii (Castelnau, 1861)speciesPARSEOreochromis andersonii (Castelnau, 1861)
+????????????????Oreochromis andersonii
+!!!!!!!!!!!!!!!!Oreochromis andersonii (Castelnau, 1861)
+xxxxxxxxxxxxxxxOreochromis andersonii
+------------------22Array
+(
+    [SpecCode] => 1399
+    [Genus] => Oreochromis
+    [Species] => andersonii
+    [Author] => (Castelnau, 1861)
+    [SpeciesRefNo] => 2
+    [FBname] => Three spotted tilapia
+    [FamCode] => 349
+    [GenCode] => 3459
+    [Remark] => 
+    [SubGenCode] => 
+    [SubFamily] => Pseudocrenilabrinae
+    [Family] => Cichlidae
+    [Order] => Perciformes
+    [Class] => Actinopterygii
+)
+INIT_Oreochromis niloticus!
+ORI_Oreochromis niloticus!
+DO Canonical!
+CANO_Oreochromis niloticus!
+LOAd
+Oreochromis niloticus_Oreochromis niloticusspeciesPARSEOreochromis niloticus
+????????????????Oreochromis niloticus
+!!!!!!!!!!!!!!!!Oreochromis niloticus (Linnaeus, 1758)
+xxxxxxxxxxxxxxxOreochromis niloticus
+------------------21Array
+(
+    [SpecCode] => 2
+    [Genus] => Oreochromis
+    [Species] => niloticus
+    [SpeciesRefNo] => 2
+    [Author] => (Linnaeus, 1758)
+    [FBname] => Nile tilapia
+    [FamCode] => 349
+    [GenCode] => 3459
+    [SubGenCode] => 
+    [Remark] => 
+    [SubFamily] => Pseudocrenilabrinae
+    [Family] => Cichlidae
+    [Order] => Perciformes
+    [Class] => Actinopterygii
+)
